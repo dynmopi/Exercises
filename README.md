@@ -1,2 +1,2 @@
-# frontend
- Repositório criado para fins
+# Descrição
+ Repositório criado para fins de estudo. Compartilhado para o público.
