@@ -7,9 +7,7 @@ function confirmar(){
         alert("Conquista desbloqueada: Curioso")
     }
 
-    if (num.value.length == 0){
-        alert("[ERRO] Digite o valor!")
-    } else{
+    
         var dobro = a * 2
         var terca = a / 3
 
@@ -17,8 +15,6 @@ function confirmar(){
 
         dem.innerHTML = `O dobro de ${a} é ${dobro}`
         dem.innerHTML += `<br> A terça parte de ${a} é ${tercarrend}`
-
-    }
 
 
 }
