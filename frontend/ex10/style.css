@@ -17,6 +17,8 @@ h1{
 }
 p{
     font-family: "Ubuntu Sans", Arial, Helvetica, sans-serif;
+    text-align: justify;
+    padding: 10px;
 }
 body{
     background-color: #000411;
@@ -32,7 +34,7 @@ section{
     width: 500px;
     box-shadow: 5px 5px 15px #29174b93
 }
-input.inp{
+input#largtxt, input#alttxt{
     border-radius: 10px;
     padding: 10px;
     border: none;

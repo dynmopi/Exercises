@@ -32,7 +32,7 @@ section{
     width: 500px;
     box-shadow: 5px 5px 15px #29174b93
 }
-input.inp{
+input#input{
     border-radius: 10px;
     padding: 10px;
     border: none;
